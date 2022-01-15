@@ -7,4 +7,10 @@
 
  [Ссылка для скачивания Git: https://git-scm.com/downloads](https://git-scm.com/downloads)
 
- После установки программы, компьютер необходимо перезагрузить.
+ После установки необходимо познакомиться с git, ввести имя и электронную почту.
+
+ ```git config --global user.name «Ваше имя англ буквами»```
+
+```git config --global user.email ваша_почта@example.com```
+
+На этом все, git готов к работе!
